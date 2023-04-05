@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/twl_prak2_2100016086/static/css/main.6c80a107.css",
+    "main.js": "/twl_prak2_2100016086/static/js/main.6ebc1c83.js",
+    "static/js/787.545e4efa.chunk.js": "/twl_prak2_2100016086/static/js/787.545e4efa.chunk.js",
+    "static/media/caro1.jpg": "/twl_prak2_2100016086/static/media/caro1.c10549a4b55b0087de46.jpg",
+    "static/media/caro2.jpg": "/twl_prak2_2100016086/static/media/caro2.0d6f6854bc5e748b0e69.jpg",
+    "static/media/caro3.jpg": "/twl_prak2_2100016086/static/media/caro3.6c91e8c98ba9192af8ab.jpg",
+    "static/media/about.jpg": "/twl_prak2_2100016086/static/media/about.bf86f237815ad1704945.jpg",
+    "static/media/logo.png": "/twl_prak2_2100016086/static/media/logo.41e90b3c20cfabd0a740.png",
+    "index.html": "/twl_prak2_2100016086/index.html",
+    "main.6c80a107.css.map": "/twl_prak2_2100016086/static/css/main.6c80a107.css.map",
+    "main.6ebc1c83.js.map": "/twl_prak2_2100016086/static/js/main.6ebc1c83.js.map",
+    "787.545e4efa.chunk.js.map": "/twl_prak2_2100016086/static/js/787.545e4efa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c80a107.css",
+    "static/js/main.6ebc1c83.js"
+  ]
+}
